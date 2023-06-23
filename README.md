@@ -18,11 +18,11 @@ cd easypark_pdf
 ```
 Create a python virtual environment 
 ```sh
-python3 -m venv venv
+python3 -m venv env
 ```
 Activate the virtual environment
 ```sh
-source venv/bin/activate
+source env/bin/activate
 ```
 Install requirements
 ```sh
